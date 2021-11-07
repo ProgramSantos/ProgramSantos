@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcoscode404&color=yellow" alt="Profile views" /> </p>
 
  
--  ✔  Trabalho como tecnico de TI prestando suporte em sistemas do Hospital unimed Porto Velho desde 2019
+-  ✔  Trabalho como tecnico de TI prestando suporte em sistemas do Hospital unimed Porto Velho desde agosto de 2021
 - 🐱‍ Atualmente estudo Front-end como base de desenvolvimento web
 - 🐱‍👤 tecnologias que estudo atualmente: React.js, html, css, javascript, um pouco de node.js, git, github
 - 🛢  Outras Ferramentas: gitkrakren, figma,
@@ -90,4 +90,4 @@ Here are some ideas to get you started:
  </br>
  
 <!--  cobrinha  -->
-  ![Snake animation](https://github.com/marcoscode404/marcoscode404/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ProgramSantos/ProgramSantos/blob/output/github-contribution-grid-snake.svg)
