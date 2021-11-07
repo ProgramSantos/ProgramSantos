@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-   # Olá! eu sou o Marcos Vini! Seja Bem vindo 🌎😊 
+   # Olá! eu sou o Samuel Santos! Seja Bem vindo 🌎😊 
    
 </h1>
  
@@ -29,9 +29,8 @@ Here are some ideas to get you started:
  
 -  ✔  Trabalho como tecnico de TI prestando suporte em sistemas do Hospital unimed Porto Velho desde agosto de 2021
 - 🐱‍ Atualmente estudo Front-end como base de desenvolvimento web
-- 🐱‍👤 tecnologias que estudo atualmente: React.js, html, css, javascript, um pouco de node.js, git, github
-- 🛢  Outras Ferramentas: gitkrakren, figma,
-- 🐱‍🏍 Tecnologias  que tenho a intenção de estudar também: Firebase, banco de dados PostgreSQL, typescript, next.js, python
+- 🐱‍👤 tecnologias que estudo atualmente: html, css, javascript, um pouco de node.js, git, github
+- 🐱‍🏍 Tecnologias  que tenho a intenção de estudar também: Firebase, banco de dados MySQL
 
  <br />
 
